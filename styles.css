@@ -11,7 +11,7 @@
 }
 
 body{
-    font-family: sans-serif;
+    font-family: "Noto Serif", sans-serif;
     text-align: center;
     background-color: var(--neutral);
 }
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6{
-    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 h1{
@@ -47,7 +47,6 @@ h1{
   .nav-links{
     display: flex;
     list-style: none;
-    font-family: serif;
   }
 
   .nav-links a{
