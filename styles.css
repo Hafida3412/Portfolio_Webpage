@@ -9,6 +9,7 @@
 
 * {
     margin: 0;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -29,8 +30,9 @@ h6{
 h1{
     font-size: 60px;
 }
-#nav-bar{
+#navbar{
     display: flex;
+    justify-content: center;
     position: fixed;
     top: 0;
     left: 0;
